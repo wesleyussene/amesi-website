@@ -21,10 +21,11 @@ O site usa HTML, CSS e JavaScript sem dependências ou processo de compilação.
 ## Ficheiros
 
 - `index.html` — página inicial e secções institucionais
-- `membros.html` — directório de pessoas, com três cartões placeholder para fotografia, nome e cargo
+- `membros.html` — directório de pessoas, com fotografias, nomes e cargos dos três membros da Direcção Executiva
 - `empresas-associadas.html` — directório de empresas, com três cartões placeholder para logótipo, endereço e descrição
 - `styles.css` — identidade visual e layout responsivo
 - `script.js` — menu móvel e ano automático no rodapé
 - `assets/amesi-logo.svg` — logótipo fornecido
 - `assets/color-palette.svg` — paleta fornecida
 - `assets/member-benefits.jpg` — referência sobre vantagens de ser membro
+- `assets/nadia-lima.png`, `assets/victor-zandamela.png` e `assets/pedro-coimbra.png` — fotografias dos membros
